@@ -10,6 +10,12 @@
 
 [![NPM](https://nodei.co/npm/fast-react-context.png?compact=true)](https://nodei.co/npm/fast-react-context/)
 
+#### Require
+
+```
+react >= 18
+```
+
 #### To install the latest stable version:
 
 ```
@@ -39,3 +45,12 @@ export default const App {
     </Provider>;
 }
 ```
+
+## With context
+
+![Context](./example/context.gif)
+
+## With fast context
+
+![Context](./example/fast-context.gif)
+
