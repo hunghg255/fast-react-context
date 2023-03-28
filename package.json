@@ -60,5 +60,13 @@
     "tslib": "^2.5.0",
     "typescript": "^5.0.2"
   },
-  "keywords": ["react", "react state management", "context"]
+  "keywords": ["react", "react state management", "context"],
+  "homepage": "https://github.com/hunghg255/fast-react-context",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunghg255/fast-react-context"
+  },
+  "bugs": {
+    "url": "https://github.com/hunghg255/fast-react-context/issues"
+  }
 }
