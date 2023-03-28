@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -60,7 +60,11 @@
     "tslib": "^2.5.0",
     "typescript": "^5.0.2"
   },
-  "keywords": ["react", "react state management", "context"],
+  "keywords": [
+    "react",
+    "react state management",
+    "context"
+  ],
   "homepage": "https://github.com/hunghg255/fast-react-context",
   "repository": {
     "type": "git",
